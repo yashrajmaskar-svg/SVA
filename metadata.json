@@ -1,0 +1,6 @@
+{
+  "name": "School Smart Hub - Principal & Faculty Portal",
+  "description": "Comprehensive School Communication & Administration Hub with Announcements, Circulars, Events, Timetable schedules, Teacher Email Directory, and SMTP Audit Logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
